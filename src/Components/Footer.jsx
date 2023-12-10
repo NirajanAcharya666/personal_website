@@ -1,5 +1,5 @@
 /**
- * Footer component
+ *Footer component
  *
  * Displays avenues to contact you.
  * Contact information is passed in from the App component that

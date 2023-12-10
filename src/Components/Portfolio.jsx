@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "Google Workspace Set Up",
     description:
-      "helped Social Butterflies Foundation boost team productivity and enable easy collaboration by setting up Google Workspace apps for email, calendars, video conferencing, and document creation, editing, and storage.",
+      "helped Social Butterflies Foundation boost team productivity and enable easy collaboration by setting up Google Workspace apps email, calendars, video conferencing, and document creation, editing, and storage.",
     url: "https://www.catchafire.org/impact/match/3223971/social-butterflies-foundation--google-workspace-set-up/",
   },
 ];
